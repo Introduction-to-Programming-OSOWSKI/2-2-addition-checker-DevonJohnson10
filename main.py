@@ -3,6 +3,6 @@ def addCheck(x,y,z):
         return "True"
     else:
         return "False"
-print(addcheck(9,10,19))
+print(addCheck(9,10,19))
 
 
